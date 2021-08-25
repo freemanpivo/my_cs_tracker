@@ -7,7 +7,7 @@
     - [X] Comparison of methods
     - [X] Operations in Strings
     - [X] StringBuilder in java
-- [ ] Maths for DSA
+- [ ] Maths
     - [X] Introduction
     - [ ] Complete Bitwise Operators
     - [X] Prime numbers
